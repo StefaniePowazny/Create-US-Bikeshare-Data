@@ -2,7 +2,7 @@
 
  Udacity Data Analyst Nanodegree t1-p2 
  
- The mentioned data files are included in the bikeshare_2.zip file.
+ The mentioned data files are included in the bikeshare-2.zip file.
  
 ## Overview
 
